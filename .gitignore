@@ -1,0 +1,22 @@
+
+# Ignore Python virtual environments
+venv/
+.env/
+*.venv
+*.env
+
+# Ignore Conda environments
+conda_env/
+env/
+
+# Ignore common Python cache & logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignore IDE and system files
+.vscode/
+.idea/
+.DS_Store
+
